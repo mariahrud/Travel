@@ -3,8 +3,6 @@ layout: post
 title: "How To Plan A Trip In 5 Simple Steps"
 categories: misc
 ---
-## How To Plan A Trip In 5 Simple Steps
-
 1. Pick your destination
 2. Decide the duration of your trip
 3. Book flights, train, or bus tickets, and accommodation
