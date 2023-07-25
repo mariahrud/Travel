@@ -3,6 +3,7 @@ layout: post
 title: "Essentials for every trip "
 categories: misc
 ---
+
 ## Documents and currency
 - Passport
 - Wallet
