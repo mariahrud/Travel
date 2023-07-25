@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Funny Facts
-permalink: /home/
 ---
 
 
