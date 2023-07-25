@@ -3,9 +3,6 @@ layout: post
 title: "Most Expensive Countries in the World"
 categories: misc
 ---
-
-## Most Expensive Countries in the World 
-
 1. Norway. ...
 2. Iceland. ...
 3. Barbados. ...
