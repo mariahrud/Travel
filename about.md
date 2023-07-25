@@ -1,10 +1,10 @@
 ---
 layout: page
-title: More
+title: Top 10
 permalink: /about/
 ---
 
-Find out the lotttt of amazing places to see
+Find out the lot of amazing places to see
 
 You can find the Top 10 places to visit in Europe:
 [youtube](https://www.youtube.com/watch?v=-jIEdf-JOIw)
