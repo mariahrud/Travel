@@ -1,9 +1,9 @@
 ---
 layout: post
+title: "Essentials for every trip "
+categories: misc
 ---
-
-## Essentials for every trip 
-**Documents and currency
+## Documents and currency
 - Passport
 - Wallet
 
