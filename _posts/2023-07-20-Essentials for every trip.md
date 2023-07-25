@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Essentials for every trip "
+title: "Essentials for every trip"
 categories: misc
 ---
 
