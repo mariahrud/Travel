@@ -31,6 +31,6 @@ So don’t give up on each other yet! No matter how frustrating your partner can
 
 You can find the source reference:
 [dannyblog](https://www.whatsdannydoing.com/blog/interesting-facts-about-travelling)
-![image](https://github.com/mariahrud/travel/assets/140012736/a955d1c4-5153-4187-b5ad-5dc7028a95cc)
+
 
 
