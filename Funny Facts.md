@@ -5,14 +5,14 @@ permalink: /home/
 ---
 
 
-Researchers found that men who skip their annual vacation have a 30% greater chance of suffering a heart attack.
+**Researchers found that men who skip their annual vacation have a 30% greater chance of suffering a heart attack.**
 
-The good news? Vacations can help lower that risk. One study found that after only a day or two away, nearly 90% of people reported lower stress levels. 
+*The good news? Vacations can help lower that risk. One study found that after only a day or two away, nearly 90% of people reported lower stress levels.*
 
 3. Tourism Keeps the Economy Churning
 Did you know that one in 9 American jobs depend on tourism?
 
-It’s similar in the U.K., where the travel industry offers nearly four million jobs. 
+*It’s similar in the U.K., where the travel industry offers nearly four million jobs.*
 
 The next time you book a trip, keep this fun travel trivia in mind and know you’re contributing to your local economy!
 
