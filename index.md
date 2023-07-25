@@ -8,14 +8,9 @@
 layout: home
 ---
 ---
-title: Travel
-
 ---
 
-Find out the lotttt of amazing places to see
+##Planning a trip makes you 8% happier.
+Scientific study has shown that the intention itself or the plan to go on a holiday makes vacationers to be almost as happy as the trip itself. The study compared vacationers to non-vacationers and the results showed that vacationers had an 8% higher pre-trip happiness score than non-vacationers.
 
-You can find the Top 10 places to visit in Europe:
-[youtube](https://www.youtube.com/watch?v=-jIEdf-JOIw)
-
-You can find the Top 10 places to visit in the World:
-[youtube](https://www.youtube.com/watch?v=yiG6aIU9TYM)
+Other studies have also confirmed this psychological phenomenon.
