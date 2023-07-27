@@ -5,8 +5,9 @@ check gre gui
 name:Google website
 
  
- ## runs-on:  group: x64
-
+on:
+  schedule:
+    - cron: '30 * * * *'  # Every 30mins
  
 
 jobs:
