@@ -1,0 +1,103 @@
+check gre gui
+
+ 
+
+name:Google website
+
+ 
+
+on:
+
+  schedule:
+
+    - cron: '60 * * * *'  # Run every 60mins
+
+ 
+
+jobs:
+
+  check_gre:
+
+    runs-on: ubuntu-latest
+
+ 
+
+    steps:
+
+      - name: Check connectivity
+
+        run: ping -c 5 https://www.google.com/
+
+ 
+
+      - name: Install Python
+
+        uses: actions/setup-python@v2
+
+        with:
+
+          python-version: '3.x'
+
+ 
+
+      - name: Install dependencies
+
+        run: pip install sendgrid
+
+ 
+
+      - name: Send email
+
+        env:
+
+          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+
+          TO_EMAIL: 'maria-legdanova@hotmail.com'
+
+        run: |
+
+          python - <<EOF
+
+          import os
+
+          from sendgrid import SendGridAPIClient
+
+          from sendgrid.helpers.mail import Mail
+
+ 
+
+          status = "Google page not availabe if os.system('ping -c 1 https://www.google.com/') == 0 else "Google website is not available"
+
+ 
+
+          message = Mail(
+
+              from_email='maria-legdanova.com',
+
+              to_emails=os.getenv('TO_EMAIL'),
+
+              subject='GRE Status',
+
+              plain_text_content=status
+
+          )
+
+ 
+
+          try:
+
+              sg = SendGridAPIClient(os.getenv('SENDGRID_API_KEY'))
+
+              response = sg.send(message)
+
+              print(response.status_code)
+
+              print(response.body)
+
+              print(response.headers)
+
+          except Exception as e:
+
+              print(str(e))
+
+          EOF
