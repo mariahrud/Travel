@@ -1,4 +1,4 @@
-name: Check version
+name: Check my files
 
 on:
 schedule:
@@ -9,6 +9,6 @@ runs -on: ubuntu-latest
 
 steps:
 - users: actions/checkout@v1
-- name: Run a multi-lene script
+- name: Run a multi-line script
 run: |
    ls -l
