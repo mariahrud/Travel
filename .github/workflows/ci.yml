@@ -5,12 +5,7 @@ check gre gui
 name:Google website
 
  
-
-on:
-
-  schedule:
-
-    - cron: '60 * * * *'  # Run every 60mins
+ ## runs-on:  group: x64
 
  
 
