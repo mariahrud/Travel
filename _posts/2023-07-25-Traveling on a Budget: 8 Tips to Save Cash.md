@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Traveling on a Budget: 10 Tips to Save Cash"
+title: "Traveling on a Budget: 8 Tips to Save Cash"
 categories: misc
 ---
 1. Plan ahead. ...
