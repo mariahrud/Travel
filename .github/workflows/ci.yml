@@ -1,4 +1,4 @@
-name: Check my files & version
+name: Check my files
 
 on:
 schedule:
